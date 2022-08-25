@@ -48,7 +48,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/ziadd.JPG) no-repeat;
+    background: url(ziadd.JPG) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
